@@ -82,7 +82,6 @@ def parse_args():
     return parser.parse_args()
     
 def main():
-    # cd C:\Users\marce\OneDrive\Ambiente de Trabalho\project 
     # python3 synchronize.py Source Replica Logs.txt 10
     args = parse_args()
 
